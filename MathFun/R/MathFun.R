@@ -21,5 +21,3 @@ MathFun <- function(num1, num2, opt) {
   }
   return(c)
 }
-
-
